@@ -2,66 +2,51 @@
   <img src="./banner.png" alt="Gadel2002 Banner" width="100%">
 </p>
 
-<h1 align="center">
-Hi 👋 I'm Gadel
-</h1>
+<h1 align="center">Hi 👋 I'm Gadel</h1>
 
 <h3 align="center">
-Angular Frontend Developer from Russia RU
+Angular Frontend Developer
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=DD0031&center=true&vCenter=true&width=700&lines=Angular+Developer;Frontend+Developer;TypeScript+Developer;HTML+%7C+SCSS+%7C+JavaScript;Always+Learning+New+Technologies" />
+Building modern web applications with Angular, TypeScript and clean architecture.
+</p>
+
+<p align="center">
+
+<a href="https://github.com/Gadel2002">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="www.linkedin.com/in/gadel-khuzin-99059632b">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=Gadel2002&label=Profile+Views&color=DD0031&style=for-the-badge"/>
+
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=DD0031&center=true&vCenter=true&width=800&lines=Angular+Developer;Frontend+Developer;TypeScript+Developer;HTML+%7C+SCSS+%7C+JavaScript;Always+Learning+New+Technologies"/>
 </p>
 
 ---
 
 # 👨‍💻 About Me
 
-💻 Frontend Developer passionate about building modern web applications.
-
-🌱 Currently learning advanced Angular architecture, RxJS and performance optimization.
-
-🎯 Goal: Angular Developer.
+- 💻 Angular Frontend Developer
+- 🚀 Passionate about clean code and modern UI
+- 🌱 Learning Angular Signals, RxJS and Clean Architecture
+- 🎯 Goal: Become a Mid-level Angular Developer
+- ⚡ Always improving my frontend skills
 
 ---
 
 # 🚀 Tech Stack
 
-### Frontend
+<p align="center">
 
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=angular" height="50"/>
-<img src="https://skillicons.dev/icons?i=ts" height="50"/>
-<img src="https://skillicons.dev/icons?i=js" height="50"/>
-<img src="https://skillicons.dev/icons?i=html" height="50"/>
-<img src="https://skillicons.dev/icons?i=css" height="50"/>
-<img src="https://skillicons.dev/icons?i=sass" height="50"/>
-<img src="https://skillicons.dev/icons?i=bootstrap" height="50"/>
-<img src="https://skillicons.dev/icons?i=tailwind" height="50"/>
-
-</p>
-
-### Tools
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=git" height="50"/>
-<img src="https://skillicons.dev/icons?i=github" height="50"/>
-<img src="https://skillicons.dev/icons?i=vscode" height="50"/>
-<img src="https://skillicons.dev/icons?i=figma" height="50"/>
-<img src="https://skillicons.dev/icons?i=postman" height="50"/>
-<img src="https://skillicons.dev/icons?i=npm" height="50"/>
-
-</p>
-
-### Currently Learning
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=nodejs" height="50"/>
-<img src="https://skillicons.dev/icons?i=firebase" height="50"/>
+<img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,sass,bootstrap,tailwind,git,github,vscode,figma,postman,npm"/>
 
 </p>
 
@@ -71,9 +56,9 @@ Angular Frontend Developer from Russia RU
 
 <p align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Gadel2002&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Gadel2002&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gadel2002&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gadel2002&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -89,103 +74,7 @@ Angular Frontend Developer from Russia RU
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Gadel2002&theme=onedark&no-frame=true&row=1&column=6"/>
-
-</p>
-
----
-
-# 📚 What I'm Learning
-
-- Angular
-- TypeScript
-- RxJS
-- Signals
-- SCSS
-- REST API
-- Responsive Design
-- Clean Architecture
-- Git Workflow
-
----
-
-# ⚡ Development Workflow
-
-```text
-      🎨 Design
-          │
-          ▼
-       Figma
-          │
-          ▼
-    HTML + SCSS
-          │
-          ▼
-       Angular
-          │
-          ▼
-     TypeScript
-          │
-          ▼
-      REST API
-          │
-          ▼
-      Deployment
-```
-
----
-
-# 💼 Skills
-
-✅ Angular
-
-✅ TypeScript
-
-✅ JavaScript
-
-✅ HTML5
-
-✅ CSS3
-
-✅ SCSS
-
-✅ Bootstrap
-
-✅ Tailwind CSS
-
-✅ RxJS
-
-✅ REST API
-
-✅ Git
-
-✅ GitHub
-
-✅ Figma
-
----
-
-# 📫 Connect with Me
-
-<p align="left">
-
-<a href="https://github.com/Gadel2002">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Gadel2002&label=Profile%20Views&color=DD0031&style=for-the-badge"/>
-
-</p>
+# 📊 Contribution Graph
 
 <p align="center">
 
@@ -195,16 +84,88 @@ Angular Frontend Developer from Russia RU
 
 ---
 
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Gadel2002/Gadel2002/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
+---
+
+# 📚 Currently Learning
+
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://skillicons.dev/icons?i=angular,ts,nodejs,firebase"/>
+
+</p>
+
+- Angular Signals
+- RxJS
+- REST API
+- SCSS
+- Responsive Design
+- Clean Architecture
+- Git Workflow
+
+---
+
+<!--# 💼 Featured Projects
+| Project | Description |
+|---------|-------------|
+| 🚀 Angular Landing Page | Responsive landing page with Angular |
+| 📋 Todo App | Angular + TypeScript |
+| 🌤 Weather App | REST API + Angular |
+| 📊 Admin Dashboard | Dashboard UI with charts |
+
+> Позже ты сможешь заменить эти проекты ссылками на реальные репозитории.
+
+---
+-->
+
+# ⚙️ Development Workflow
+
+```text
+🎨 Design
+      │
+      ▼
+    Figma
+      │
+      ▼
+ HTML + SCSS
+      │
+      ▼
+   Angular
+      │
+      ▼
+  TypeScript
+      │
+      ▼
+  REST API
+      │
+      ▼
+  Deployment
+```
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/Gadel2002">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+<a href="www.linkedin.com/in/gadel-khuzin-99059632b">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
 
 </p>
 
 ---
 
 <h2 align="center">
-⭐ Thank you for visiting my profile ⭐
+⭐ Thanks for visiting my profile ⭐
 </h2>
  
 
