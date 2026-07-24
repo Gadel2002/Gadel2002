@@ -18,7 +18,7 @@ Building modern web applications with Angular, TypeScript and clean architecture
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="www.linkedin.com/in/gadel-khuzin-99059632b">
+<a href="www.linkedin.com/in/gadel-khuzin">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -156,7 +156,7 @@ Building modern web applications with Angular, TypeScript and clean architecture
 <a href="https://github.com/Gadel2002">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
-<a href="www.linkedin.com/in/gadel-khuzin-99059632b">
+<a href="www.linkedin.com/in/gadel-khuzin">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
