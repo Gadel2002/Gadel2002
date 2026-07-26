@@ -50,9 +50,7 @@ Building modern web applications with Angular, TypeScript and clean architecture
 
 </p>
 
----
-
-# 📈 GitHub Stats
+<!--# 📈 GitHub Stats
 
 <p align="center">
 
@@ -60,7 +58,7 @@ Building modern web applications with Angular, TypeScript and clean architecture
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gadel2002&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</p>
+</p> -->
 
 ---
 
